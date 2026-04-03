@@ -54,8 +54,8 @@ Gesture Control (OpenCV + MediaPipe)
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/nain3094/Gesture_Lec.git
-cd Gesture_Lec
+git clone https://github.com/nain3094/Gesture_Lect.git
+cd Gesture_Lect
 ```
 
 ### 2️⃣ Create Virtual Environment
