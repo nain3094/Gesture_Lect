@@ -7,6 +7,10 @@ RAJSEKHAR ROY
 
 An AI-powered Deep learning system that converts lecture videos into structured notes using **speech recognition, NLP, and computer vision**, with **gesture-based video control**.
 
+**Project Overview:** This project integrates computer vision and speech processing technologies to develop an intelligent learning assistant that enhances the online lecture experience. It applies deep learning techniques for real-time gesture recognition and automated note generation.
+
+**Problem Statement:** During online lectures, manually controlling playback and taking notes interrupts student focus, reduces engagement, and leads to missed concepts. To solve this, we are developing a hands-free system that maps hand gestures to media controls (e.g., play, pause, playback speed) and utilizes AI for automatic speech transcription. This unified system aims to reduce cognitive load and create a distraction-free environment that maximizes knowledge retention.
+
 ---
 
 ##  Features
