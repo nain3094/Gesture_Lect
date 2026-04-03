@@ -1,8 +1,8 @@
 #  Gesture Controlled Lecture Note Making System
 
 Made By:
-NAINA GARG
-NISHTHA SINGH
+NAINA GARG, 
+NISHTHA SINGH, 
 RAJSEKHAR ROY
 
 An AI-powered Deep learning system that converts lecture videos into structured notes using **speech recognition, NLP, and computer vision**, with **gesture-based video control**.
